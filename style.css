@@ -80,7 +80,7 @@ section div {
 
 
 #p2{
-    background-image: url(http://192.168.0.44:5500/Fiverr_C-1/Img-1.png);
+    background-image: url(./Img-1.png);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
