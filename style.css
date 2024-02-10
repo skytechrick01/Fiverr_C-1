@@ -61,7 +61,7 @@ section div {
 }
 
 #p1 {
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-kGrOBqLMWKrcnpaQj_vwFCSL8YzH6iWXepHv_vusJw&s);
+    background-image: url(https://i.natgeofe.com/n/506bcd08-37e0-4506-b4cc-328b028cdd8c/NationalGeographic_2683370_3x2.jpg?w=1638&h=1092);
     background-size: cover;
     background-repeat: no-repeat;
     /* height: 10000px; */
@@ -77,7 +77,7 @@ section div {
 
 
 #p2{
-    background-image: url(http://192.168.0.44:5500/Fiverr_C-1/Img-1.png);
+    background-image: url(https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto/v1/secured-attachments/messaging_message/attachment/be3d9196cfb621712ffc0030ad620d07-1707566059369/prato.png?__cld_token__=exp=1707606360~hmac=2209c55d792efc40f06963dcfba4d5c0fbf678ba58a67dbd5c52ffaa30f52b35);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -92,6 +92,6 @@ section div {
 }
 
 section {
-    background: url(./Img-2.png);
-    
+    background: url(https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto/v1/secured-attachments/messaging_message/attachment/1f191d2dbfff6b0aab0a25f28fcbadb0-1707566059379/sfondo.png?__cld_token__=exp=1707606360~hmac=1deb8969e1a16e8f8f27758166192fb7eff56d08849be24a092af6f74c66521e);
+
 }
